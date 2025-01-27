@@ -25,29 +25,29 @@ This is a 90-day DevOps learning mail where everything about DevOps will be foun
 
 
 **Build:**
-1. Tools: Maven, Gradle
-2. Compiling source code into deployable artifacts.
+- Tools: Maven, Gradle
+- Compiling source code into deployable artifacts.
 
 **Test:**
-1. Tools: Selenium, JUnit, TestNG
-2. Automated testing to ensure software quality.
+- Tools: Selenium, JUnit, TestNG
+- Automated testing to ensure software quality.
 
 **Release:**
-1. Tools: Jenkins, GitHub Actions, GitLab CI/CD
-2. CI/CD pipelines for smooth delivery.
+- Tools: Jenkins, GitHub Actions, GitLab CI/CD
+- CI/CD pipelines for smooth delivery.
 
 
 **Deploy:**
-1. Tools: Kubernetes, Docker, Ansible
-2. Automating deployment in cloud or on-premise environments.
+- Tools: Kubernetes, Docker, Ansible
+- Automating deployment in cloud or on-premise environments.
 
 **Operate:**
-1. Tools: Prometheus, Grafana, ELK Stack
-2. Monitoring application performance and infrastructure health.
+- Tools: Prometheus, Grafana, ELK Stack
+- Monitoring application performance and infrastructure health.
 
 **Monitor:**
-1. Tools: Nagios, Splunk
-2. Continuous feedback and logging for improvements.
+- Tools: Nagios, Splunk
+- Continuous feedback and logging for improvements.
 
 
 
