@@ -5,7 +5,6 @@ This is a 90-day DevOps learning mail where everything about DevOps will be foun
 
 ### Key Principles of DevOps:
 i. Collaboration: Bridging the gap between development and operations teams to work together efficiently.
-
 ii. Automation: Automating repetitive tasks like code integration, testing, and deployment.
 iii. Continuous Integration and Continuous Deployment (CI/CD): Frequent code integration and automated deployment to production environments.
 iv. Monitoring and Feedback: Real-time tracking of applications and infrastructure to provide insights and improvements.
