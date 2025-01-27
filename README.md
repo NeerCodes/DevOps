@@ -85,20 +85,31 @@ These undersea cables are primarily owned and operated by Tier-1 companies, whic
 
 #### OSI Model (Theoretical Model):
 **1. Physical Layer –** Transmission of raw data (bits) over physical media.
+
 **2. Data Link Layer –** Error detection, correction, and framing (MAC, Ethernet).
+
 **3. Network Layer –** Routing and addressing (IP addresses).
+
 **4. Transport Layer –** Reliable data delivery, flow control (TCP/UDP).
+
 **5. Session Layer –** Establishing, managing, and terminating sessions.
+
 **6. Presentation Layer –** Data translation, encryption, compression.
+
 **7. Application Layer –** User interface and application services (HTTP, FTP, etc.).
+
 **- Key Point:** The OSI model provides a conceptual understanding of how the internet theoretically works.
 
 #### TCP/IP Model (Practical Model):
 - In real-world applications, the TCP/IP (Transmission Control Protocol/Internet Protocol) model, which powers the modern internet, simplifies the OSI model into 4 layers, combining similar functionalities:
 
 **1. Network Interface Layer (Combines OSI Physical + Data Link) –** Handles hardware addressing, physical transmission, and framing (Ethernet, Wi-Fi).
+
 **2. Internet Layer (OSI Network Layer) -** Responsible for addressing and routing data (IP, ICMP).
+
 **3. Transport Layer (Same as OSI Transport Layer) –** Ensures end-to-end communication (TCP/UDP).
+
 **4. Application Layer (Combines OSI Application + Presentation + Session) –** Provides services to end users (HTTP, FTP, DNS).
+
 **- Key Point:** The TCP/IP model is the real-world implementation used for internet communication.
 
