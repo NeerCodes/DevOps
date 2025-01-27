@@ -1,7 +1,7 @@
 # DevOps
 This is a 90-day DevOps learning mail where everything about DevOps will be found sequentially, useful for freshers, experienced, and even non-IT guys planning to switch to IT via DevOps.
 
->> DevOps is a set of practices, tools, and a cultural philosophy that combines software development (Dev) and IT operations (Ops) to shorten the software development lifecycle and provide continuous delivery with high software quality. It focuses on collaboration, automation, and monitoring to ensure faster and more reliable software releases.
+> DevOps is a set of practices, tools, and a cultural philosophy that combines software development (Dev) and IT operations (Ops) to shorten the software development lifecycle and provide continuous delivery with high software quality. It focuses on collaboration, automation, and monitoring to ensure faster and more reliable software releases.
 
 https://github.com/NeerCodes/DevOps/
 
@@ -57,7 +57,7 @@ https://github.com/NeerCodes/DevOps/
 ## NETWORKING (for DevOps)
 ### All about Networking required for DevOps
 
-**Internet:** Web of optical fibre cables spread under ocean via which data is transferred. :+1
+**Internet:** Web of optical fibre cables spread under ocean via which data is transferred. 
 - These cables are owned by Tier-1 companies.
 - Visit Topology: https://www.submarinecablemap.com/
 - Tier-2 companies (BSNL, JIO, Airtel) take these cables on rent from tier-1 companies to web it to connect to end-users.
