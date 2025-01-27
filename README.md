@@ -5,11 +5,6 @@ This is a 90-day DevOps learning mail where everything about DevOps will be foun
 
 https://github.com/NeerCodes/DevOps/
 
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Value 1  | Value 2  | Value 3  |
-| Value A  | Value B  | Value C  |
-
 
 ### Key Principles of DevOps:
 **i. Collaboration**: Bridging the gap between development and operations teams to work together efficiently. 
