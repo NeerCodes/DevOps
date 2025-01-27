@@ -16,12 +16,12 @@ This is a 90-day DevOps learning mail where everything about DevOps will be foun
 
 ### DevOps Lifecycle Phases:
 **Plan:**
-1. Tools: Jira, Trello
-2. Agile methodologies to plan and track work progress.
+- Tools: Jira, Trello
+- Agile methodologies to plan and track work progress.
 
 **Develop:**
-1. Tools: Git, GitHub, GitLab
-2. Writing and managing code collaboratively.
+- Tools: Git, GitHub, GitLab
+- Writing and managing code collaboratively.
 
 
 **Build:**
