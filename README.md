@@ -98,7 +98,7 @@ These undersea cables are primarily owned and operated by Tier-1 companies, whic
 
 **7. Application Layer –** User interface and application services (HTTP, FTP, etc.).
 
-**- Key Point:** The OSI model provides a conceptual understanding of how the internet theoretically works.
+**Key Point:** The OSI model provides a conceptual understanding of how the internet theoretically works.
 
 #### TCP/IP Model (Practical Model):
 - In real-world applications, the TCP/IP (Transmission Control Protocol/Internet Protocol) model, which powers the modern internet, simplifies the OSI model into 4 layers, combining similar functionalities:
@@ -111,5 +111,5 @@ These undersea cables are primarily owned and operated by Tier-1 companies, whic
 
 **4. Application Layer (Combines OSI Application + Presentation + Session) –** Provides services to end users (HTTP, FTP, DNS).
 
-**- Key Point:** The TCP/IP model is the real-world implementation used for internet communication.
+**Key Point:** The TCP/IP model is the real-world implementation used for internet communication.
 
