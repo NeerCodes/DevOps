@@ -11,37 +11,37 @@ iv. Monitoring and Feedback: Real-time tracking of applications and infrastructu
 v. Security (DevSecOps): Embedding security into the DevOps lifecycle to ensure secure applications.
 
 ## DevOps Lifecycle Phases:
-###Plan:
+**Plan:**
 1. Tools: Jira, Trello
 2. Agile methodologies to plan and track work progress.
 
-###Develop:
+**Develop:**
 1. Tools: Git, GitHub, GitLab
 2. Writing and managing code collaboratively.
 
 
-###Build:
+**Build:**
 1. Tools: Maven, Gradle
 2. Compiling source code into deployable artifacts.
 
-###Test:
+**Test:**
 1. Tools: Selenium, JUnit, TestNG
 2. Automated testing to ensure software quality.
 
-###Release:
+**Release:**
 1. Tools: Jenkins, GitHub Actions, GitLab CI/CD
 2. CI/CD pipelines for smooth delivery.
 
 
-###Deploy:
+**Deploy:**
 1. Tools: Kubernetes, Docker, Ansible
 2. Automating deployment in cloud or on-premise environments.
 
-###Operate:
+**Operate:**
 1. Tools: Prometheus, Grafana, ELK Stack
 2. Monitoring application performance and infrastructure health.
 
-###Monitor:
+**Monitor:**
 1. Tools: Nagios, Splunk
 2. Continuous feedback and logging for improvements.
 
