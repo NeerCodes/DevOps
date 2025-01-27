@@ -57,25 +57,24 @@ https://github.com/NeerCodes/DevOps/
 ## NETWORKING (for DevOps)
 ### All about Networking required for DevOps
 
-The internet is a vast global network of optical fiber cables, many of which are laid under the ocean, enabling the transfer of data across the world.
+- The internet is a vast global network of optical fiber cables, many of which are laid under the ocean, enabling the transfer of data across the world.
 
 These undersea cables are primarily owned and operated by Tier-1 companies, which form the backbone of the internet.
 
-🌐 Explore the global network topology: Submarine Cable Map
+🌐 Explore the global network topology: Submarine Cable Map (https://www.submarinecablemap.com/)
 
-Internet Service Provider (ISP) Hierarchy
-Tier-1 ISPs (Global Backbone Providers):
+### Internet Service Provider (ISP) Hierarchy
+#### Tier-1 ISPs (Global Backbone Providers):
+- These companies own and maintain the core infrastructure, including submarine cables and major routing networks.
+- They provide connectivity to Tier-2 ISPs via direct peering agreements.
+- Examples: Tata Communications, AT&T, NTT Communications.
 
-These companies own and maintain the core infrastructure, including submarine cables and major routing networks.
-They provide connectivity to Tier-2 ISPs via direct peering agreements.
-Examples: Tata Communications, AT&T, NTT Communications.
-Tier-2 ISPs (Regional Providers):
+#### Tier-2 ISPs (Regional Providers):
+- They lease bandwidth from Tier-1 providers to extend connectivity to different regions or countries.
+- They may provide services to businesses and individual users or sell bandwidth to Tier-3 ISPs.
+- Examples: BSNL, Jio, Airtel.
 
-They lease bandwidth from Tier-1 providers to extend connectivity to different regions or countries.
-They may provide services to businesses and individual users or sell bandwidth to Tier-3 ISPs.
-Examples: BSNL, Jio, Airtel.
-Tier-3 ISPs (Local Providers):
-
-They lease bandwidth from Tier-2 providers and offer internet access to end-users (homes and businesses).
-They often focus on specific cities or localities and provide last-mile connectivity.
-Examples: YOU Broadband, Craze Wifi, ion N/W, Jio Fiber.
+#### Tier-3 ISPs (Local Providers):
+- They lease bandwidth from Tier-2 providers and offer internet access to end-users (homes and businesses).
+- They often focus on specific cities or localities and provide last-mile connectivity.
+- Examples: YOU Broadband, Craze Wifi, ion N/W, Jio Fiber.
