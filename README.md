@@ -56,3 +56,10 @@ https://github.com/NeerCodes/DevOps/
 
 ## NETWORKING (for DevOps)
 ### All about Networking required for DevOps
+
+**Internet:** Web of optical fibre cables spread under ocean via which data is transferred.
+- These cables are owned by Tier-1 companies.
+- Visit Topology: https://www.submarinecablemap.com/
+- Tier-2 companies (BSNL, JIO, Airtel) take these cables on rent from tier-1 companies to web it to connect to end-users.
+- Tier-3 companies (YOU Broadband, Craze Wifi, ion N/W, JIO Fiber) take cables from tier-2 companies on rent to provide it to local users.
+
