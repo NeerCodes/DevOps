@@ -153,4 +153,12 @@ These undersea cables are primarily owned and operated by Tier-1 companies, whic
   - Responsible for addressing and routing packets across networks.
   - Versions: IPv4 (32-bit addressing) and IPv6 (128-bit addressing).
   - Core Functions: Addressing, packet fragmentation, and reassembly.
+ 
+#### 4. Network Access Layer Protocols
+> The lowest layer of the networking model, dealing with physical transmission and data framing.
+- **Ethernet (IEEE 802.3) –** Wired networking standard.
+- **Wi-Fi (IEEE 802.11) –** Wireless communication protocol.
+- **ARP (Address Resolution Protocol) –** Resolves IP addresses to MAC addresses.
+- **PPP (Point-to-Point Protocol) –** Used for direct communication between two nodes.
+
 
