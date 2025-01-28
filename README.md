@@ -293,3 +293,6 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
 
   - **Divide IP Range:**
       - Split the IP range according to the new subnet mask.
+
+  **7. Example of Subnetting**
+  
