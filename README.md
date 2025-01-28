@@ -258,10 +258,11 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
  - **Simplifies Administration:** Makes troubleshooting easier by segmenting networks.
 
 **4. Key Components of Subnetting**
- **1. IP Address:** Identifies a device on a network (e.g., 192.168.1.1).
+
+ - **IP Address:** Identifies a device on a network (e.g., 192.168.1.1).
   
- **2. Subnet Mask:** Determines which part of the IP address is the network and which part is the **host**
+ - **Subnet Mask:** Determines which part of the IP address is the network and which part is the **host**
   - Example: 255.255.255.0 (Class C network)..
   
- **3. CIDR Notation:** Specifies the subnet mask using a /n format, where n is the number of bits in the network part.
+ - **CIDR Notation:** Specifies the subnet mask using a /n format, where n is the number of bits in the network part.
   - Example: 192.168.1.1/24 means the first 24 bits are the network portion.
