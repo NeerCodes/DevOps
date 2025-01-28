@@ -63,7 +63,7 @@ These undersea cables are primarily owned and operated by Tier-1 companies, whic
 
 🌐 Explore the global network topology: Submarine Cable Map (https://www.submarinecablemap.com/)
 
-### Internet Service Provider (ISP) Hierarchy
+### <ins> Internet Service Provider (ISP) Hierarchy </ins>
 #### Tier-1 ISPs (Global Backbone Providers):
 - These companies own and maintain the core infrastructure, including submarine cables and major routing networks.
 - They provide connectivity to Tier-2 ISPs via direct peering agreements.
