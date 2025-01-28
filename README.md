@@ -274,3 +274,15 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
  
    - **Default Subnet Mask:** 255.0.0.0
    - **CIDR:** /8
+
+ - **Class - B**
+   - **Range:** 128.0.0.0 – 191.255.255.255
+ 
+   - **Default Subnet Mask:** 255.255.0.0
+   - **CIDR:** /16
+
+  - **Class - C**
+   - **Range:** 192.0.0.0 – 223.255.255.255
+ 
+   - **Default Subnet Mask:** 255.255.255.0
+   - **CIDR:** /24
