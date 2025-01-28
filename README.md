@@ -236,3 +236,4 @@ These undersea cables are primarily owned and operated by Tier-1 companies, whic
 IPv6 solves IPv4's address exhaustion, offers better security, auto-configuration, and improved performance, but adoption is slower due to compatibility challenges.
 
 
+### <ins> Subnet </ins>
