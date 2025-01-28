@@ -269,7 +269,7 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
 
 **5. Classes of IP Addresses (Default Subnet Masks)**
 
-Class	             Range	                  Default Subnet Mask	         CIDR
+Class &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Range &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp	Default Subnet Mask	&nbsp&nbsp CIDR
 
  A	         0.0.0.0 – 127.255.255.255	          255.0.0.0               /8
  
