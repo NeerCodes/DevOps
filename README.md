@@ -237,3 +237,6 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
 
 
 ### <ins> Subnet </ins>
+**1. What is a Subnet?**
+ - A subnet (short for "subnetwork") is a logically segmented portion of a larger network.
+ - It divides a network into smaller, manageable sections to enhance performance, security, and organization.
