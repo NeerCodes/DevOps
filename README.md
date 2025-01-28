@@ -83,7 +83,7 @@ These undersea cables are primarily owned and operated by Tier-1 companies, whic
 ### <ins> OSI Model & TCP/IP Model </ins>
 - According to the International Organization for Standardization (ISO), the OSI (Open Systems Interconnection) model defines a 7-layer communication framework that helps understand how network systems interact.
 
-#### OSI Model (Theoretical Model):
+#### _OSI Model (Theoretical Model):_
 **1. Physical Layer –** Transmission of raw data (bits) over physical media.
 
 **2. Data Link Layer –** Error detection, correction, and framing (MAC, Ethernet).
@@ -100,7 +100,7 @@ These undersea cables are primarily owned and operated by Tier-1 companies, whic
 
 **Key Point:** The OSI model provides a conceptual understanding of how the internet theoretically works.
 
-#### TCP/IP Model (Practical Model):
+#### _TCP/IP Model (Practical Model):_
 - In real-world applications, the TCP/IP (Transmission Control Protocol/Internet Protocol) model, which powers the modern internet, simplifies the OSI model into 4 layers, combining similar functionalities:
 
 **1. Network Interface Layer (Combines OSI Physical + Data Link) –** Handles hardware addressing, physical transmission, and framing (Ethernet, Wi-Fi).
