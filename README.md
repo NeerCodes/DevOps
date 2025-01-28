@@ -147,9 +147,10 @@ These undersea cables are primarily owned and operated by Tier-1 companies, whic
   - TCP: 80 (HTTP), 443 (HTTPS), 22 (SSH), 21 (FTP), 25 (SMTP)
   - UDP: 53 (DNS), 123 (NTP), 161 (SNMP)
 
-in Internet,
--IP
-
-in N/W,
--
+#### 3. Internet Layer Protocols
+> Provides logical addressing and routing functions to connect devices across networks.
+- **IP (Internet Protocol)**
+  - Responsible for addressing and routing packets across networks.
+  - Versions: IPv4 (32-bit addressing) and IPv6 (128-bit addressing).
+  - Core Functions: Addressing, packet fragmentation, and reassembly.
 
