@@ -231,3 +231,8 @@ These undersea cables are primarily owned and operated by Tier-1 companies, whic
  - **IPv4:** Limited QoS with Type of Service (ToS) field.
  
  - **IPv6:** Enhanced QoS with Flow Label field for traffic prioritization.
+
+**Quick Summary:**
+IPv6 solves IPv4's address exhaustion, offers better security, auto-configuration, and improved performance, but adoption is slower due to compatibility challenges.
+
+
