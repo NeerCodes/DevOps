@@ -240,3 +240,19 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
 **1. What is a Subnet?**
  - A subnet (short for "subnetwork") is a logically segmented portion of a larger network.
  - It divides a network into smaller, manageable sections to enhance performance, security, and organization.
+
+**1. What is a Subnet?**
+ - Subnetting is the process of splitting a larger IP network into smaller subnets.
+ - This allows efficient utilization of IP addresses and reduces network congestion
+ - Helps in isolating traffic for security and better control.
+
+**2. What is Subnetting?**
+ - Subnetting is the process of splitting a larger IP network into smaller subnets.
+ - This allows efficient utilization of IP addresses and reduces network congestion
+ - Helps in isolating traffic for security and better control.
+
+**3. Why is Subnetting Important?**
+ - **Efficient IP Address Management:** Conserves IP addresses by avoiding wastage.
+ - **Improved Network Performance:** Limits broadcast traffic within a subnet.
+ - **Enhanced Security:** Isolates different network segments.
+ - **Simplifies Administration:** Makes troubleshooting easier by segmenting networks.
