@@ -175,3 +175,53 @@ These undersea cables are primarily owned and operated by Tier-1 companies, whic
  - **IPv4:** ~4.3 billion addresses (2³²); address exhaustion issue.
  
  - **IPv6:** Virtually unlimited (~3.4×10³⁸ or 2¹²⁸); sufficient for IoT and future needs.
+
+
+**3. Configuration**
+
+ - **IPv4:** Manual configuration or via DHCP.
+ 
+ - **IPv6:** Auto-configuration using SLAAC (Stateless Address Autoconfiguration).
+
+
+**4. Security**
+
+ - **IPv4:** Optional IPSec support.
+ 
+ - **IPv6:** Built-in IPSec for encryption and authentication.
+
+**5. Header Size**
+
+ - **IPv4:** 20 bytes.
+ 
+ - **IPv6:** 40 bytes (simplified header for better performance).
+
+**6. Communication Types**
+
+ - **IPv4:** Unicast, Multicast, and Broadcast.
+ 
+ - **IPv6:** Unicast, Multicast, and Anycast (no Broadcast).
+
+**7. Fragmentation**
+
+ - **IPv4:** Done by both routers and the sender.
+ 
+ - **IPv6:** Only the sender handles fragmentation.
+
+**8. Routing Efficiency**
+
+ - **IPv4:** Larger routing tables, less efficient.
+ 
+ - **IPv6:** Hierarchical addressing improves routing efficiency.
+
+**9. Checksum**
+
+ - **IPv4:** Checksum field in header (slows down processing).
+ 
+ - **IPv6:** No checksum (handled at other layers).
+
+**10. Deployment**
+
+ - **IPv4:** Widely deployed; used in most networks.
+ 
+ - **IPv6:** Gradual adoption; coexists with IPv4 in dual-stack systems.
