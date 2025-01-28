@@ -266,3 +266,9 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
   
  - **CIDR Notation:** Specifies the subnet mask using a /n format, where n is the number of bits in the network part.
    - Example: 192.168.1.1/24 means the first 24 bits are the network portion.
+
+**5. Classes of IP Addresses (Default Subnet Masks)**
+Class	             Range	                  Default Subnet Mask	         CIDR
+ A	         0.0.0.0 – 127.255.255.255	          255.0.0.0               /8
+ B	        128.0.0.0 – 191.255.255.255	         255.255.0.0	            /16
+ C	        192.0.0.0 – 223.255.255.255	         255.255.255.0	          /24   
