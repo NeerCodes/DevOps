@@ -80,7 +80,7 @@ These undersea cables are primarily owned and operated by Tier-1 companies, whic
 - Examples: YOU Broadband, Craze Wifi, ion N/W, Jio Fiber.
 
 
-### OSI Model & TCP/IP Model
+### <ins> OSI Model & TCP/IP Model </ins>
 - According to the International Organization for Standardization (ISO), the OSI (Open Systems Interconnection) model defines a 7-layer communication framework that helps understand how network systems interact.
 
 #### OSI Model (Theoretical Model):
@@ -114,7 +114,7 @@ These undersea cables are primarily owned and operated by Tier-1 companies, whic
 **Key Point:** The TCP/IP model is the real-world implementation used for internet communication.
 
 
-### Internet Protocols
+### <ins> Internet Protocols </ins>
 #### 1. Application layer Protocols
 > These protocols provide end-user services and enable communication between applications. Common protocols include:
 - **HTTP/HTTPS (HyperText Transfer Protocol/Secure)**
