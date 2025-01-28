@@ -256,3 +256,8 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
  - **Improved Network Performance:** Limits broadcast traffic within a subnet.
  - **Enhanced Security:** Isolates different network segments.
  - **Simplifies Administration:** Makes troubleshooting easier by segmenting networks.
+
+**4. Key Components of Subnetting**
+  **1. IP Address:** Identifies a device on a network (e.g., 192.168.1.1).
+  **2. Subnet Mask:** Limits broadcast traffic within a subnet.
+  **3. CIDR Notation:** Isolates different network segments.
