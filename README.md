@@ -225,3 +225,9 @@ These undersea cables are primarily owned and operated by Tier-1 companies, whic
  - **IPv4:** Widely deployed; used in most networks.
  
  - **IPv6:** Gradual adoption; coexists with IPv4 in dual-stack systems.
+
+**11. Quality of Service (QoS)**
+
+ - **IPv4:** Limited QoS with Type of Service (ToS) field.
+ 
+ - **IPv6:** Enhanced QoS with Flow Label field for traffic prioritization.
