@@ -170,3 +170,8 @@ These undersea cables are primarily owned and operated by Tier-1 companies, whic
  - **IPv6:** 128 bits (e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334)
 
  
+**2. Address Space**
+
+ - **IPv4:** ~4.3 billion addresses (2³²); address exhaustion issue.
+ 
+ - **IPv6:** Virtually unlimited (~3.4×10³⁸ or 2¹²⁸); sufficient for IoT and future needs.
