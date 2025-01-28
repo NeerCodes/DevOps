@@ -286,3 +286,10 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
   - **Determine Subnet Requirements:**
       - Number of subnets needed.
       - Number of hosts per subnet.
+   
+  - **Calculate Subnet Mask:**
+      - Use bits from the host portion to create more subnets.
+      - Example: For 4 subnets, borrow 2 bits (since 2 <sup>2</sup> = 4).
+
+  - **Divide IP Range:**
+      - Split the IP range according to the new subnet mask.
