@@ -120,18 +120,32 @@ These undersea cables are primarily owned and operated by Tier-1 companies, whic
 - **HTTP/HTTPS (HyperText Transfer Protocol/Secure)**
   - Used for web browsing and data transfer over the web.
   - **Ports:** 80 (HTTP), 443 (HTTPS)
-- 
+ 
 - **SMTP (Simple Mail Transfer Protocol)**
   - Used for sending emails.
   - **Ports:** 25, 587 (SMTP with encryption)
+  - 
 - **FTP (File Transfer Protocol)**
   - Used for file transfers between systems
   - **Ports: 21** (control), 20 (data transfer)
+   
 - **Actionable Tip:** Ensure familiarity with port numbers for security configurations and firewall rules.
 
-in Transport,
--TCP(YouTube)
--UDP(Live Stream, Gaming, Vdo call)
+#### 2. Transport Layer Protocols
+> This layer is responsible for end-to-end communication, error handling, and data flow control.
+- **TCP (Transmission Control Protocol)**
+  - Reliable, connection-oriented protocol.
+  - Used in applications like YouTube, web browsing, email.
+  - **Characteristics:** Error checking, retransmissions, packet ordering.
+ 
+- **UDP (User Datagram Protocol)**
+  - Fast, connectionless protocol with minimal overhead.
+  - Used for real-time applications like live streaming, gaming, video calls.
+  - **Characteristics:** No retransmission, lower latency, potential data loss.
+    
+- **Key Ports:**
+  - TCP: 80 (HTTP), 443 (HTTPS), 22 (SSH), 21 (FTP), 25 (SMTP)
+  - UDP: 53 (DNS), 123 (NTP), 161 (SNMP)
 
 in Internet,
 -IP
