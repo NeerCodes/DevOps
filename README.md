@@ -118,8 +118,8 @@ These undersea cables are primarily owned and operated by Tier-1 companies, whic
 #### 1. Application layer Protocols
 > These protocols provide end-user services and enable communication between applications. Common protocols include:
 - **HTTP/HTTPS (HyperText Transfer Protocol/Secure)**
-- Used for web browsing and data transfer over the web.
-- **Ports:** 80 (HTTP), 443 (HTTPS)
+  - Used for web browsing and data transfer over the web.
+  - **Ports:** 80 (HTTP), 443 (HTTPS)
 - 
 - SMTP
 - FTP
