@@ -382,3 +382,15 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
 
 - Convert .ppk to .pem using PuTTYgen:
    - Load .ppk in PuTTYgen → Export OpenSSH Key
+
+
+### <ins> Client-Server Architecture </ins>
+- A network model where a client requests services, and a server provides them.
+- Used in web applications, databases, cloud computing, and network communications.
+
+#### Components:
+**1. Client:**
+- Sends requests to the server.
+- Can be a browser, mobile app, or any networked device.
+- Example: Web browser accessing a website.
+
