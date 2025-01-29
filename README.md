@@ -394,7 +394,17 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
 - Can be a browser, mobile app, or any networked device.
 - Example: Web browser accessing a website.
 
-**1. Server:**
+**2. Server:**
 - Processes client requests and sends responses.
 - Can be a web server, database server, or application server.
 - Example: Nginx, Apache, MySQL.
+
+#### Workflow:
+1. Client initiates a request (e.g., HTTP request to fetch a webpage).
+2. Server processes the request and retrieves data.
+3. Server sends a response back to the client.
+
+#### Types:
+- **Two-Tier Architecture:** Direct communication between client and server.
+- **Three-Tier Architecture:** Uses an intermediate application layer (e.g., frontend → backend → database).
+- **Multi-Tier Architecture:** Scalable, with load balancers, caching, and microservices.
