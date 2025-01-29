@@ -345,3 +345,11 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
 - When a device sends data, the IP address determines the destination **across networks**.
 - The MAC address ensures that data reaches the correct device **within the local network**.
 - **ARP (Address Resolution Protocol)** maps an IP address to a MAC address for communication.
+
+
+### <ins> Router & Switch </ins>
+- **Router**
+  - Connects different networks (e.g., home network to the internet).
+  - Operates at the Network Layer (Layer 3).
+  - ISP provides internet via a router.
+  - Routes data between LAN, WAN, and the internet.
