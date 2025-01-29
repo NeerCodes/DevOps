@@ -315,9 +315,9 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
       - Example: For /26, 2<sup>6</sup> −2 = 62 usable addresses.
 
 
-    **9. VLSM (Variable Length Subnet Mask)**
-    - Allows subnetting with different subnet masks in the same network.
-    - More efficient IP allocation by customizing subnet sizes.
+  **9. VLSM (Variable Length Subnet Mask)**
+  - Allows subnetting with different subnet masks in the same network.
+  - More efficient IP allocation by customizing subnet sizes.
         
     
 
