@@ -394,3 +394,7 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
 - Can be a browser, mobile app, or any networked device.
 - Example: Web browser accessing a website.
 
+**1. Server:**
+- Processes client requests and sends responses.
+- Can be a web server, database server, or application server.
+- Example: Nginx, Apache, MySQL.
