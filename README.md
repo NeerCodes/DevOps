@@ -408,3 +408,50 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
 - **Two-Tier Architecture:** Direct communication between client and server.
 - **Three-Tier Architecture:** Uses an intermediate application layer (e.g., frontend → backend → database).
 - **Multi-Tier Architecture:** Scalable, with load balancers, caching, and microservices.
+
+
+#### ------------------------------------------------------------ #####
+1️⃣ Network Fundamentals
+OSI & TCP/IP Model (Layers & Differences)
+IP Addressing (IPv4 vs IPv6)
+Subnetting & CIDR Notation
+MAC Address vs IP Address
+Private vs Public IPs
+NAT (Network Address Translation)
+DNS (Domain Name System) & Resolution Process
+DHCP (Dynamic Host Configuration Protocol)
+2️⃣ Network Devices & Communication
+Router vs Switch vs Hub vs Modem
+Load Balancers (Types: L4 vs L7, HAProxy, Nginx, ALB/ELB in AWS)
+Firewall (WAF - Web Application Firewall)
+VPN (Virtual Private Network)
+Proxy vs Reverse Proxy
+3️⃣ Protocols & Ports
+Common Protocols & Ports:
+HTTP (80), HTTPS (443)
+FTP (21), SFTP (22), FTPS (990)
+SMTP (25), IMAP (143), POP3 (110)
+SSH (22), Telnet (23), RDP (3389)
+Difference: TCP vs UDP (Use Cases: YouTube vs Gaming)
+ICMP (Ping, Traceroute, Packet Loss)
+WebSockets (Real-time Communication)
+4️⃣ Security & Performance
+SSL/TLS & HTTPS
+Rate Limiting & Throttling
+DDoS Attacks & Mitigation
+IP Whitelisting & Blacklisting
+Port Forwarding & Reverse SSH Tunneling
+CDN (Content Delivery Network) - How it Works?
+Latency, Bandwidth, Throughput
+5️⃣ Cloud & DevOps Networking
+VPC (Virtual Private Cloud) & Subnets
+VPN vs Direct Connect
+Ingress & Egress Traffic in Cloud
+Containers & Networking (Docker, Kubernetes, Service Mesh)
+Microservices Communication (API Gateway, Service Discovery)
+6️⃣ Advanced Networking Concepts
+BGP (Border Gateway Protocol) - Internet Routing
+SDN (Software-Defined Networking)
+VXLAN (Virtual Extensible LAN)
+Packet Sniffing (Wireshark, TCPDump)
+Anycast, Unicast, Multicast, Broadcast
