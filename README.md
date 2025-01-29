@@ -298,8 +298,8 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
   
   Given an IP Address: 192.168.1.0/24
   
-    - **Original Subnet Mask:** 255.255.255.0 (256 IPs, 2<sup>8</sup>).
+    - Original Subnet Mask: 255.255.255.0 (256 IPs, 2<sup>8</sup>).
     
-    - **Subnet into 4 networks:** Borrow 2 bits → /26 (Subnet Mask = 255.255.255.192). 
+    - Subnet into 4 networks: Borrow 2 bits → /26 (Subnet Mask = 255.255.255.192). 
     
 
