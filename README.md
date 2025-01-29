@@ -295,7 +295,11 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
       - Split the IP range according to the new subnet mask.
 
   **7. Example of Subnetting**
+  
   Given an IP Address: 192.168.1.0/24
+  
     - **Original Subnet Mask:** 255.255.255.0 (256 IPs, 2<sup>8</sup>).
+    
     - **Subnet into 4 networks:** Borrow 2 bits → /26 (Subnet Mask = 255.255.255.192). 
+    
 
