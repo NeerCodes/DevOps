@@ -366,3 +366,19 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
 
 
  - **Server = Machine = Host = Laptop = Instance(AWS) = VM(Azure) = Compute Enginer(GCP)**
+
+
+### <ins> Keypair </ins>
+- **Keypairs** are used for secure authentication in SSH (Secure Shell) and cloud platforms (AWS, Azure).
+- Consist of **private key** (kept secret) and **public key** (shared).
+
+#### File Formats: 
+- .pem (**Privacy-Enhanced Mail**) → Used in **Linux/macOS** for SSH authentication.
+- .ppk (**PuTTY Private Key**) → Used in **Windows** with PuTTY SSH client.
+
+###### Conversions:
+- Convert .pem to .ppk using PuTTYgen:
+   - puttygen key.pem -o key.ppk
+
+- Convert .ppk to .pem using PuTTYgen:
+   - Load .ppk in PuTTYgen → Export OpenSSH Key
