@@ -328,8 +328,20 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
     
 ### <ins> IP and MAC Address </ins>
 - **IP Address (Internet Protocol Address):**
-  - Identifies a device on a network.
+  - Logical address used for identifying devices across networks.
+  - Assigned by ISPs or network admins (Dynamic via DHCP / Static).
   - Can change based on network (dynamic/static).
+  - Can be IPv4 (32-bit) or IPv6 (128-bit).
   - Works at the Internet layer (Layer 3).
     
+- **MAC Address (Media Access Control Address):**
+  - Unique hardware identifier for a device.
+  - Physical address, assigned to NIC (Network Interface Card) by the manufacturer.
+  - 48-bit hexadecimal format (e.g., 00:1A:2B:3C:4D:5E)
+  - Unique to each device and does not change with networks.
+  - Works at the Data Link layer (Layer 2).
 
+**How They Work Together?**
+- When a device sends data, the IP address determines the destination **across networks**.
+- The MAC address ensures that data reaches the correct device **within the local network**.
+- **ARP (Address Resolution Protocol)** maps an IP address to a MAC address for communication.
