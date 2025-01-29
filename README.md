@@ -327,6 +327,9 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
         
     
 ### <ins> IP and MAC Address </ins>
-    
+- **IP Address (Internet Protocol Address):**
+  - Identifies a device on a network.
+  - Can change based on network (dynamic/static).
+  - Works at the Internet layer (Layer 3).
     
 
