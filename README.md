@@ -318,6 +318,12 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
   **9. VLSM (Variable Length Subnet Mask)**
   - Allows subnetting with different subnet masks in the same network.
   - More efficient IP allocation by customizing subnet sizes.
+
+  **Summary:**
+  - Subnetting helps divide a large network into smaller, manageable pieces.
+  - It improves IP management, performance, and security.
+  - Calculating subnets involves understanding binary operations and subnet masks.
+
         
     
 
