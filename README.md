@@ -301,6 +301,11 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
     - **Original Subnet Mask:** 255.255.255.0 (256 IPs, 2<sup>8</sup> ).
      
     - **Subnet into 4 networks:** Borrow 2 bits → /26 (Subnet Mask = 255.255.255.192).
+    - **New Subnet Ranges:**
+        - 192.168.1.0 – 192.168.1.63
+        - 192.168.1.64 – 192.168.1.127
+        - 192.168.1.128 – 192.168.1.191
+        - 192.168.1.192 – 192.168.1.255
 
     
     
