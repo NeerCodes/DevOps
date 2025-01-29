@@ -309,10 +309,15 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
 
 
   **8. Important Terms**
-  - Network Address: First address in a subnet (e.g., 192.168.1.0).
-  - Broadcast Address: Last address in a subnet (e.g., 192.168.1.255).
-  - Usable Hosts: Total addresses minus the network and broadcast addresses.
+  - **Network Address:** First address in a subnet (e.g., 192.168.1.0).
+  - **Broadcast Address:** Last address in a subnet (e.g., 192.168.1.255).
+  - **Usable Hosts:** Total addresses minus the network and broadcast addresses.
       - Example: For /26, 2<sup>6</sup> −2 = 62 usable addresses.
+
+
+    **9. VLSM (Variable Length Subnet Mask)**
+    - Allows subnetting with different subnet masks in the same network.
+    - More efficient IP allocation by customizing subnet sizes.
         
     
 
