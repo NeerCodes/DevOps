@@ -348,8 +348,14 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
 
 
 ### <ins> Router & Switch </ins>
-- **Router**
+- **Router:**
   - Connects different networks (e.g., home network to the internet).
   - Operates at the Network Layer (Layer 3).
   - ISP provides internet via a router.
   - Routes data between LAN, WAN, and the internet.
+
+
+- **Switch:**
+  - Connects devices within the same network (e.g., PC to PC in LAN).
+  - Operates at the Data Link Layer (Layer 2).
+  - Used in LAN to improve communication between devices.
