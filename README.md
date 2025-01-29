@@ -510,89 +510,103 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
  - Converts private IPs to public IPs for internet access, enabling multiple devices to share a single public IP.
 
 🔹 DNS (Domain Name System) & Resolution Process
-Translates domain names (e.g., google.com) into IP addresses for browsers to access websites. Resolution involves recursive and authoritative DNS servers.
+ - Translates domain names (e.g., google.com) into IP addresses for browsers to access websites. Resolution involves recursive and authoritative DNS servers.
 
 🔹 DHCP (Dynamic Host Configuration Protocol)
-Automatically assigns IP addresses and other network configurations (Gateway, DNS) to devices in a network.
+ - Automatically assigns IP addresses and other network configurations (Gateway, DNS) to devices in a network.
 
 🔹 Router vs Switch vs Hub vs Modem
-Router → Connects different networks (ISP to home network).
-Switch → Connects devices in same network (LAN).
-Hub → Broadcasts data to all connected devices (obsolete).
-Modem → Converts analog signals (ISP) to digital for communication.
+ - Router → Connects different networks (ISP to home network).
+ - Switch → Connects devices in same network (LAN).
+ - Hub → Broadcasts data to all connected devices (obsolete).
+ - Modem → Converts analog signals (ISP) to digital for communication.
+   
 🔹 Load Balancers (L4 vs L7, HAProxy, Nginx, ALB/ELB in AWS)
 Distributes traffic across multiple servers.
 
-L4 → Operates at the Transport Layer (IP/Port-based).
-L7 → Operates at the Application Layer (URL-based routing).
+ - L4 → Operates at the Transport Layer (IP/Port-based).
+ - L7 → Operates at the Application Layer (URL-based routing).
 🔹 Firewall (WAF - Web Application Firewall)
-Monitors and filters incoming/outgoing traffic based on security rules. WAF protects web apps from attacks like SQL injection, XSS.
+ - Monitors and filters incoming/outgoing traffic based on security rules. WAF protects web apps from attacks like SQL injection, XSS.
 
 🔹 VPN (Virtual Private Network)
-Encrypts data to create a secure private connection over a public network (Internet).
+ - Encrypts data to create a secure private connection over a public network (Internet).
 
 🔹 Proxy vs Reverse Proxy
-Proxy → Acts as an intermediary for clients accessing the internet (hides client identity).
-Reverse Proxy → Sits in front of servers to handle traffic and improve security/performance.
+ - Proxy → Acts as an intermediary for clients accessing the internet (hides client identity).
+ - Reverse Proxy → Sits in front of servers to handle traffic and improve security/performance.
+   
 🔹 ICMP (Ping, Traceroute, Packet Loss)
 Used for network diagnostics:
 
-Ping → Checks if a host is reachable.
-Traceroute → Tracks the route packets take.
-Packet Loss → Measures dropped packets in transmission.
+ - Ping → Checks if a host is reachable.
+ - Traceroute → Tracks the route packets take.
+ - Packet Loss → Measures dropped packets in transmission.
+
+   
 🔹 WebSockets (Real-time Communication)
-Provides full-duplex (bi-directional) communication over a single TCP connection (e.g., chat apps, live updates).
+ - Provides full-duplex (bi-directional) communication over a single TCP connection (e.g., chat apps, live updates).
 
 🔹 Rate Limiting & Throttling
-Rate Limiting → Restricts the number of requests per unit time (security & performance).
-Throttling → Dynamically slows down request processing instead of blocking them.
+ - Rate Limiting → Restricts the number of requests per unit time (security & performance).
+   
+ - Throttling → Dynamically slows down request processing instead of blocking them.
+
 🔹 DDoS Attacks & Mitigation
-Distributed Denial of Service (DDoS) floods a network/server with excessive requests, making it unavailable.
-Mitigation: Firewalls, Rate Limiting, Cloud-based DDoS protection (Cloudflare, AWS Shield).
+ - Distributed Denial of Service (DDoS) floods a network/server with excessive requests, making it unavailable.
+ - Mitigation: Firewalls, Rate Limiting, Cloud-based DDoS protection (Cloudflare, AWS Shield).
 
 🔹 IP Whitelisting & Blacklisting
-Whitelisting → Only allows specified IPs to access resources.
-Blacklisting → Blocks known malicious IPs.
+ - Whitelisting → Only allows specified IPs to access resources.
+ - Blacklisting → Blocks known malicious IPs.
+
 🔹 Port Forwarding & Reverse SSH Tunneling
-Port Forwarding → Redirects network traffic from one port/IP to another (used in hosting services).
-Reverse SSH Tunneling → Allows a remote machine to access local services securely.
+ - Port Forwarding → Redirects network traffic from one port/IP to another (used in hosting services).
+ - Reverse SSH Tunneling → Allows a remote machine to access local services securely.
+
 🔹 CDN (Content Delivery Network) - How it Works?
-Distributes website content across multiple geographically distributed servers to reduce latency and improve speed.
+ - Distributes website content across multiple geographically distributed servers to reduce latency and improve speed.
 
 🔹 Latency, Bandwidth, Throughput
-Latency → Delay in data transmission (measured in ms).
-Bandwidth → Maximum data transfer capacity (measured in Mbps/Gbps).
-Throughput → Actual data transferred in a given time.
+ - Latency → Delay in data transmission (measured in ms).
+ - Bandwidth → Maximum data transfer capacity (measured in Mbps/Gbps).
+ - Throughput → Actual data transferred in a given time.
+
 🔹 VPC (Virtual Private Cloud) & Subnets
-VPC is a logically isolated cloud network. Subnets segment the network into smaller parts for better security and traffic control.
+ - VPC is a logically isolated cloud network. Subnets segment the network into smaller parts for better security and traffic control.
 
 🔹 VPN vs Direct Connect
-VPN → Encrypted connection over the internet.
-Direct Connect → Dedicated private connection to a cloud provider (faster, more secure).
+ - VPN → Encrypted connection over the internet.
+ - Direct Connect → Dedicated private connection to a cloud provider (faster, more secure).
+
 🔹 Ingress & Egress Traffic in Cloud
-Ingress → Incoming traffic to cloud services.
-Egress → Outgoing traffic from cloud services (often charged by cloud providers).
+ - Ingress → Incoming traffic to cloud services.
+ - Egress → Outgoing traffic from cloud services (often charged by cloud providers).
+
 🔹 Containers & Networking (Docker, Kubernetes, Service Mesh)
-Docker Networking → Bridge, Host, Overlay networks.
-Kubernetes Networking → Service discovery, Load balancing, Ingress controllers.
-Service Mesh → Handles microservices communication (Istio, Linkerd).
+ - Docker Networking → Bridge, Host, Overlay networks.
+ - Kubernetes Networking → Service discovery, Load balancing, Ingress controllers.
+ - Service Mesh → Handles microservices communication (Istio, Linkerd).
+
 🔹 Microservices Communication (API Gateway, Service Discovery)
-API Gateway → Manages microservices API requests (Authentication, Rate limiting).
-Service Discovery → Automatically detects services in a dynamic environment.
+ - API Gateway → Manages microservices API requests (Authentication, Rate limiting).
+ - Service Discovery → Automatically detects services in a dynamic environment.
+
 🔹 BGP (Border Gateway Protocol) - Internet Routing
-Protocol that controls how data is routed between ISPs and across the internet.
+ - Protocol that controls how data is routed between ISPs and across the internet.
 
 🔹 SDN (Software-Defined Networking)
-Decouples network control plane from data plane, enabling centralized network management.
+ - Decouples network control plane from data plane, enabling centralized network management.
 
 🔹 VXLAN (Virtual Extensible LAN)
-Encapsulates Layer 2 traffic over Layer 3 networks, extending traditional VLANs across data centers.
+ - Encapsulates Layer 2 traffic over Layer 3 networks, extending traditional VLANs across data centers.
 
 🔹 Packet Sniffing (Wireshark, TCPDump)
-Wireshark → GUI-based tool to analyze network packets.
-TCPDump → CLI tool for capturing network traffic in Linux.
+ - Wireshark → GUI-based tool to analyze network packets.
+ - TCPDump → CLI tool for capturing network traffic in Linux.
+
 🔹 Anycast, Unicast, Multicast, Broadcast
-Unicast → One-to-one communication.
-Broadcast → One-to-all communication.
-Multicast → One-to-many (specific group).
-Anycast → One-to-nearest (used in CDNs, BGP routing).
+ - Unicast → One-to-one communication.
+ - Broadcast → One-to-all communication.
+ - Multicast → One-to-many (specific group).
+ - Anycast → One-to-nearest (used in CDNs, BGP routing).
