@@ -307,6 +307,15 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
         - 192.168.1.128 – 192.168.1.191
         - 192.168.1.192 – 192.168.1.255
 
+
+  **8. Important Terms**
+  - Network Address: First address in a subnet (e.g., 192.168.1.0).
+  - Broadcast Address: Last address in a subnet (e.g., 192.168.1.255).
+  - Usable Hosts: Total addresses minus the network and broadcast addresses.
+      - Example: For /26, 2<sup>6</sup> −2 = 62 usable addresses.
+        
+    
+
     
     
 
