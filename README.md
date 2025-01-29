@@ -363,3 +363,6 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
   - Uses MAC addresses for device-to-device communication.
   - Improves network performance by reducing data collisions.  
   - Used in LAN to improve communication between devices.
+
+
+  - **Server = Machine = Host = Laptop = Instance(AWS) = VM(Azure) = Compute Enginer(GCP)**
