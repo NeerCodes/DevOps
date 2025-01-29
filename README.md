@@ -352,10 +352,14 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
   - Connects different networks (e.g., home network to the internet).
   - Operates at the Network Layer (Layer 3).
   - ISP provides internet via a router.
+  - Assigns IP addresses via DHCP.
+  - Uses routing protocols (RIP, OSPF, BGP) to find the best path for data transmission.
   - Routes data between LAN, WAN, and the internet.
 
 
 - **Switch:**
   - Connects devices within the same network (e.g., PC to PC in LAN).
   - Operates at the Data Link Layer (Layer 2).
+  - Uses MAC addresses for device-to-device communication.
+  - Improves network performance by reducing data collisions.  
   - Used in LAN to improve communication between devices.
