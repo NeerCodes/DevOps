@@ -614,6 +614,9 @@ Used for **network diagnostics**:
 
 
 🔹 **SSH vs Firewall**
-- **SSH** stands for secure shell, SSH is a secure protocol used to remotely access and manage servers or devices over an encrypted connection. It ensures secure communication between two systems by encrypting data, providing authentication, Common uses include logging into remote servers, transferring files, and etc.
-Whereas A **firewall** is like a security guard for your network. It watches over the data coming in and goes out and decides what to allow or block based on set rules. It protects your private network from threats by preventing unauthorized access while allowing safe connections.
+- **SSH** stands for secure shell. It is a secure protocol used to remotely access and manage servers or devices over an encrypted connection. By encrypting data and providing authentication, SSH ensures secure communication between two systems. Common uses include logging into remote servers, transferring files, and more.
+- A **firewall** is like a security guard for your network. It watches over the data coming in and going out and decides what to allow or block based on set rules. It protects your private network from threats by preventing unauthorized access while allowing safe connections.
+- In Leyman langauge,
+  - SSH is a secure way to connect to the server 
+  - A firewall is like a security guard where you can make sure what goes in and out on your network
 - Both serve different purposes
