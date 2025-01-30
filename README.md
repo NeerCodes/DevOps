@@ -611,3 +611,9 @@ Used for **network diagnostics**:
  - **Broadcast** → One-to-all communication.
  - **Multicast** → One-to-many (specific group).
  - **Anycast** → One-to-nearest (used in **CDNs, BGP routing**).
+
+
+🔹 **SSH vs Firewall**
+- **SSH** stands for secure shell, SSH is a secure protocol used to remotely access and manage servers or devices over an encrypted connection. It ensures secure communication between two systems by encrypting data, providing authentication, Common uses include logging into remote servers, transferring files, and etc.
+Whereas A **firewall** is like a security guard for your network. It watches over the data coming in and goes out and decides what to allow or block based on set rules. It protects your private network from threats by preventing unauthorized access while allowing safe connections.
+- Both serve different purposes
