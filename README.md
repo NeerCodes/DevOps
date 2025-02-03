@@ -697,10 +697,9 @@ Used for **network diagnostics**:
 ### Essential Linux Commands for DevOps
 -  **File and Directory Management**
   - **ls:** List files and directories.
-    ```
+    ```java
     ls -l  # Long listing
     ls -a  # Include hidden files
-
-    fgfdg
+    ```
    
 
