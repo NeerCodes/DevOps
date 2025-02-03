@@ -699,6 +699,6 @@ Used for **network diagnostics**:
   - **ls:** List files and directories.
     ```
     ls -l  # Long listing
-    ls -a  # Include hidden files
-   ```
+    ls -a  # Include hidden files ```
+   
 
