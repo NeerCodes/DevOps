@@ -701,5 +701,28 @@ Used for **network diagnostics**:
       ls -l  # Long listing
       ls -a  # Include hidden files
       ```
-   
 
+  - **cd:** Change directory.
+     ```java
+      cd /path/to/directory
+      cd ..  # Move up one level
+      ```
+
+  - **pwd:** Print working directory.
+
+  - **mkdir:** Create a directory.
+     ```java
+     mkdir new_directory
+     ```
+
+  - **rm:** Remove files or directories.
+     ```java
+     rm file.txt
+     rm -r directory  # Recursively remove
+     ```
+
+  - **cp:** Copy files or directories.
+     ```java
+     cp file.txt /path/to/destination
+     cp -r directory /path/to/destination
+     ```
