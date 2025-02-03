@@ -676,3 +676,11 @@ Used for **network diagnostics**:
       - Group: read, execute.
 
       - Others: read.
+
+
+- **Processes**
+  - Process: A running instance of a program.
+
+  - PID: Process ID (unique identifier).
+
+  - Foreground vs Background: Processes can run in the foreground (interactive) or background (non-interactive).
