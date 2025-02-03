@@ -663,24 +663,42 @@ Used for **network diagnostics**:
 
 
 - **Users and Permissions**
-  - Users: Each user has a unique ID (UID) and home directory.
+  - **Users:** Each user has a unique ID (UID) and home directory.
 
-  - Groups: Users can belong to groups for shared permissions.
+  - **Groups:** Users can belong to groups for shared permissions.
 
-  - Permissions: Files and directories have read (r), write (w), and execute (x) permissions for owner, group, and others.
+  - **Permissions:** Files and directories have read (r), write (w), and execute (x) permissions for owner, group, and others.
 
-    - Example: rwxr-xr-- means:
+    - Example: **rwxr-xr--** means:
 
-      - Owner: read, write, execute.
+      - **Owner:** read, write, execute.
 
-      - Group: read, execute.
+      - **Group:** read, execute.
 
-      - Others: read.
+      - **Others:** read.
 
 
 - **Processes**
-  - Process: A running instance of a program.
+  - **Process:** A running instance of a program.
 
-  - PID: Process ID (unique identifier).
+  - **PID:** Process ID (unique identifier).
 
-  - Foreground vs Background: Processes can run in the foreground (interactive) or background (non-interactive).
+  - **Foreground vs Background:** Processes can run in the foreground (interactive) or background (non-interactive).
+
+
+- **Networking**
+  - **IP Addresses:** Identify devices on a network.
+
+  - **Ports:** Endpoints for communication (e.g., port 80 for HTTP).
+
+  - **Firewall:** Controls incoming and outgoing traffic (e.g., **iptables**, **ufw**).
+
+
+### Essential Linux Commands for DevOps
+-  **File and Directory Management**
+  - **ls:** List files and directories.
+    ```
+    ls -l  # Long listing
+    ls -a  # Include hidden files
+   ```
+
