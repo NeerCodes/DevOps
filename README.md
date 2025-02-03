@@ -805,3 +805,19 @@ Used for **network diagnostics**:
   scp file.txt user@hostname:/path/to/destination
   ```
   
+
+**5. Package Management**
+  - **apt:** Package manager for Debian-based systems (e.g., Ubuntu).
+      ```java
+      sudo apt update  # Update package list
+      sudo apt install package_name  # Install a package
+      sudo apt remove package_name   # Remove a package
+      ```
+
+  - **yum:** Package manager for Red Hat-based systems (e.g., CentOS).
+     ```java
+      sudo yum install package_name  # Install a package
+      sudo yum remove package_name   # Remove a package"
+      ```
+
+    
