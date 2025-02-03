@@ -770,4 +770,38 @@ Used for **network diagnostics**:
   ```java
   ps aux  # Show all processes
   ```
+
+  - **df:** Disk space usage.
+  ```java
+  df -h  # Human-readable format
+  ```
+
+- **free:** Memory usage.
+  ```java
+  free -h  # Human-readable format
+  ```
+
+
+  **4. Networking**
+- **ifconfig:** Display network interfaces (use ip on newer systems).
+
+- **ping:** Test connectivity to a host.
+  ```java
+  ping google.com
+  ```
+
+  - **netstat:** Network statistics.
+  ```java
+  netstat -tuln  # Show listening ports
+  ```
+
+- **ssh:** Connect to a remote server.
+  ```java
+  ssh user@hostname
+  ```
+
+- **scp:** Securely copy files between hosts.
+  ```java
+  scp file.txt user@hostname:/path/to/destination
+  ```
   
