@@ -646,16 +646,16 @@ Used for **network diagnostics**:
 
 ### Essential Linux Concepts for DevOps
 - **File System Hierarchy**
-  - /: Root directory.
+  - **/:** Root directory.
 
-  - /bin: Essential command binaries.
+  - **/bin:** Essential command binaries.
 
-  - /etc: Configuration files.
+  - **/etc:** Configuration files.
 
-  - /var: Variable data (logs, databases).
+  - **/var:** Variable data (logs, databases).
 
-  - /home: User home directories.
+  - **/home:** User home directories.
 
-  - /tmp: Temporary files.
+  - **/tmp:** Temporary files.
 
-  - /usr: User-installed software and libraries.
+  - **/usr:** User-installed software and libraries.
