@@ -759,3 +759,15 @@ Used for **network diagnostics**:
      ```java
      awk '{print $1}' file.txt  # Print the first column
      ```
+
+
+**3. System Monitoring**
+- **top:** Display real-time system processes.
+
+- **htop:** Interactive process viewer (install with sudo apt install htop).
+
+- **ps:** Display running processes.
+  ```java
+  ps aux  # Show all processes
+  ```
+  
