@@ -726,3 +726,36 @@ Used for **network diagnostics**:
      cp file.txt /path/to/destination
      cp -r directory /path/to/destination
      ```
+
+  - **mv:** Move or rename files or directories.
+     ```java
+     mv file.txt new_name.txt
+     mv file.txt /path/to/destination
+     ```
+
+
+**2. File Manipulation**
+  - **cat:** Display file content.
+      ```java
+      cat file.txt
+      ```
+
+  - **echo:** Print text or variables.
+     ```java
+      echo "Hello, World!"
+      ```
+
+  - **grep:** Search text using patterns.
+     ```java
+     grep "pattern" file.txt
+     ```
+
+  - **sed:** Stream editor for text manipulation.
+     ```java
+     sed 's/old/new/' file.txt  # Replace text
+     ```
+
+  - **awk:** Text processing and pattern scanning.
+     ```java
+     awk '{print $1}' file.txt  # Print the first column
+     ```
