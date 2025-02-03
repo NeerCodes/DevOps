@@ -620,3 +620,25 @@ Used for **network diagnostics**:
   - SSH is a secure way to connect to the server 
   - A firewall is like a security guard where you can make sure what goes in and out on your network
 - Both serve different purposes
+
+
+
+
+
+
+
+
+
+
+
+## LINUX (for DevOps)
+### All about Linux required for DevOps
+> Linux is a critical skill for DevOps engineers, as most DevOps tools and practices rely on Linux-based systems.
+### Why Linux for DevOps?
+- **Widely Used:** Most servers, cloud platforms, and DevOps tools run on Linux.
+
+- **Open Source:** Highly customizable and adaptable for DevOps workflows.
+
+- **Command-Line Power:** Linux CLI is essential for automation, scripting, and managing infrastructure.
+
+- **Tooling:** DevOps tools like Docker, Kubernetes, Jenkins, and Ansible are designed to work seamlessly on Linux.
