@@ -642,3 +642,20 @@ Used for **network diagnostics**:
 - **Command-Line Power:** Linux CLI is essential for automation, scripting, and managing infrastructure.
 
 - **Tooling:** DevOps tools like Docker, Kubernetes, Jenkins, and Ansible are designed to work seamlessly on Linux.
+
+
+### Essential Linux Concepts for DevOps
+- **File System Hierarchy**
+  - /: Root directory.
+
+  - /bin: Essential command binaries.
+
+  - /etc: Configuration files.
+
+  - /var: Variable data (logs, databases).
+
+  - /home: User home directories.
+
+  - /tmp: Temporary files.
+
+  - /usr: User-installed software and libraries.
