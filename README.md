@@ -659,3 +659,19 @@ Used for **network diagnostics**:
   - **/tmp:** Temporary files.
 
   - **/usr:** User-installed software and libraries.
+
+
+- **Users and Permissions**
+  - Users: Each user has a unique ID (UID) and home directory.
+
+  - Groups: Users can belong to groups for shared permissions.
+
+  - Permissions: Files and directories have read (r), write (w), and execute (x) permissions for owner, group, and others.
+
+    - Example: rwxr-xr-- means:
+
+      - Owner: read, write, execute.
+
+      - Group: read, execute.
+
+      - Others: read.
