@@ -821,3 +821,66 @@ Used for **network diagnostics**:
       ```
 
     
+### Shell Scripting for DevOps
+- **Scripting:** Automate repetitive tasks using shell scripts.
+
+- **Example Script:**
+  ```java
+  #!/bin/bash
+  # Print system information
+  echo "Hostname: $(hostname)"
+  echo "CPU Usage: $(top -bn1 | grep load | awk '{print $12}')"
+  echo "Memory Usage: $(free -h | grep Mem | awk '{print $3}')"
+  ```
+
+### DevOps Tools on Linux
+**1. Containerization**
+  - **Docker:** Create and manage containers.
+      ```java
+      docker run -d -p 80:80 nginx  # Run an Nginx container
+      docker ps  # List running containers
+      ```
+- **Podman:** Docker alternative (rootless containers).
+
+**2. Orchestration**
+  - **Kubernetes:** Manage containerized applications.
+      ```java
+      kubectl get pods  # List pods
+      kubectl apply -f deployment.yaml  # Deploy an application
+      ```
+
+**3. Configuration Management**
+  - **Ansible:** Automate configuration and deployment.
+      ```java
+      ansible-playbook playbook.yml  # Run a playbook
+      ```
+  - **Puppet/Chef:** Alternative configuration management tools.
+
+
+**4. CI/CD**
+  - **Jenkins:** Automate builds and deployments.
+      ```java
+      java -jar jenkins.war  # Start Jenkins
+      ```
+  - **GitLab CI/CD:** Integrated CI/CD in GitLab.
+
+**5. Monitoring**
+- **Prometheus:** Monitor systems and applications.
+
+- **Grafana:** Visualize metrics.
+
+###  Linux for Cloud DevOps
+- **AWS CLI:** Manage AWS resources.
+  ```java
+  aws s3 ls  # List S3 buckets
+  ```
+
+- **Azure CLI:** Manage Azure resources.
+  ```java
+  az vm list  # List virtual machines
+  ```
+
+- **Google Cloud SDK:** Manage GCP resources.
+  ```java
+  gcloud compute instances list  # List VM instances
+  ```
