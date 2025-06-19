@@ -508,7 +508,7 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
 
 - Anycast, Unicast, Multicast, Broadcast
 
---
+...........................................................................................................................................................
 
 🔹 **NAT (Network Address Translation)**
  - Converts **private IPs** to **public IPs** for internet access, enabling multiple devices to share a single public IP.
