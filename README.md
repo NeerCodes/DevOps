@@ -4,7 +4,11 @@ This is DevOps learning mail where everything about DevOps will be found sequent
 
 > DevOps is a set of practices, tools, and a cultural philosophy that combines software development (Dev) and IT operations (Ops) to shorten the software development lifecycle and provide continuous delivery with high software quality. It focuses on collaboration, automation, and monitoring to ensure faster and more reliable software releases.
 
+---
+
 https://github.com/NeerCodes/DevOps/
+
+ ---
 
 
 ### Key Principles of DevOps:
@@ -17,6 +21,8 @@ https://github.com/NeerCodes/DevOps/
 **iv. Monitoring and Feedback:** Real-time tracking of applications and infrastructure to provide insights and improvements.
 
 **v. Security (DevSecOps):** Embedding security into the DevOps lifecycle to ensure secure applications.
+
+---
 
 ### DevOps Lifecycle Phases:
 **Plan:**
