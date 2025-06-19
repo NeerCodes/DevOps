@@ -4,8 +4,6 @@ This is DevOps learning mail where everything about DevOps will be found sequent
 
 > DevOps is a set of practices, tools, and a cultural philosophy that combines software development (Dev) and IT operations (Ops) to shorten the software development lifecycle and provide continuous delivery with high software quality. It focuses on collaboration, automation, and monitoring to ensure faster and more reliable software releases.
 
----
-
 https://github.com/NeerCodes/DevOps/
 
  ---
@@ -21,8 +19,6 @@ https://github.com/NeerCodes/DevOps/
 **iv. Monitoring and Feedback:** Real-time tracking of applications and infrastructure to provide insights and improvements.
 
 **v. Security (DevSecOps):** Embedding security into the DevOps lifecycle to ensure secure applications.
-
----
 
 ### DevOps Lifecycle Phases:
 **Plan:**
@@ -59,7 +55,7 @@ https://github.com/NeerCodes/DevOps/
 - Tools: Nagios, Splunk
 - Continuous feedback and logging for improvements.
 
-
+---
 
 ## NETWORKING (for DevOps)
 ### All about Networking required for DevOps
@@ -416,6 +412,8 @@ IPv6 solves IPv4's address exhaustion, offers better security, auto-configuratio
 - **Three-Tier Architecture:** Uses an intermediate application layer (e.g., frontend → backend → database).
 - **Multi-Tier Architecture:** Scalable, with load balancers, caching, and microservices.
 
+---
+
 
 #### ------------------------------------------------------------ #####
 1️⃣ **Network Fundamentals**
@@ -632,7 +630,7 @@ Used for **network diagnostics**:
 
 
 
-
+---
 
 
 
